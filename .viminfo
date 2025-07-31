@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1753974312,,"wq!"
+|2,0,1753977067,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,90 @@
 # Registers:
 
 # File marks:
-'0  22  0  ~/calculator/Jenkinsfile
-|4,48,22,0,1753974312,"~/calculator/Jenkinsfile"
-'1  18  0  ~/calculator/Calculator.java
-|4,49,18,0,1753974162,"~/calculator/Calculator.java"
+'0  1  0  ~/Jenkinsfile
+|4,48,1,0,1753977067,"~/Jenkinsfile"
+'1  17  0  ~/Calculator.java
+|4,49,17,0,1753977036,"~/Calculator.java"
+'2  22  0  ~/calculator/Jenkinsfile
+|4,50,22,0,1753974312,"~/calculator/Jenkinsfile"
+'3  18  0  ~/calculator/Calculator.java
+|4,51,18,0,1753974162,"~/calculator/Calculator.java"
 
 # Jumplist (newest first):
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  17  0  ~/Calculator.java
+|4,39,17,0,1753977036,"~/Calculator.java"
+-'  17  0  ~/Calculator.java
+|4,39,17,0,1753977036,"~/Calculator.java"
+-'  1  0  ~/Calculator.java
+|4,39,1,0,1753977022,"~/Calculator.java"
+-'  1  0  ~/Calculator.java
+|4,39,1,0,1753977022,"~/Calculator.java"
 -'  22  0  ~/calculator/Jenkinsfile
 |4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
+-'  22  0  ~/calculator/Jenkinsfile
+|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
+-'  22  0  ~/calculator/Jenkinsfile
+|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
+-'  22  0  ~/calculator/Jenkinsfile
+|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
+-'  1  0  ~/calculator/Jenkinsfile
+|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
+-'  1  0  ~/calculator/Jenkinsfile
+|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
+-'  1  0  ~/calculator/Jenkinsfile
+|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
 -'  1  0  ~/calculator/Jenkinsfile
 |4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
 -'  18  0  ~/calculator/Calculator.java
 |4,39,18,0,1753974162,"~/calculator/Calculator.java"
 -'  18  0  ~/calculator/Calculator.java
 |4,39,18,0,1753974162,"~/calculator/Calculator.java"
+-'  18  0  ~/calculator/Calculator.java
+|4,39,18,0,1753974162,"~/calculator/Calculator.java"
+-'  18  0  ~/calculator/Calculator.java
+|4,39,18,0,1753974162,"~/calculator/Calculator.java"
+-'  18  0  ~/calculator/Calculator.java
+|4,39,18,0,1753974162,"~/calculator/Calculator.java"
+-'  18  0  ~/calculator/Calculator.java
+|4,39,18,0,1753974162,"~/calculator/Calculator.java"
+-'  18  0  ~/calculator/Calculator.java
+|4,39,18,0,1753974162,"~/calculator/Calculator.java"
+-'  18  0  ~/calculator/Calculator.java
+|4,39,18,0,1753974162,"~/calculator/Calculator.java"
+-'  1  0  ~/calculator/Calculator.java
+|4,39,1,0,1753974146,"~/calculator/Calculator.java"
+-'  1  0  ~/calculator/Calculator.java
+|4,39,1,0,1753974146,"~/calculator/Calculator.java"
+-'  1  0  ~/calculator/Calculator.java
+|4,39,1,0,1753974146,"~/calculator/Calculator.java"
+-'  1  0  ~/calculator/Calculator.java
+|4,39,1,0,1753974146,"~/calculator/Calculator.java"
+-'  1  0  ~/calculator/Calculator.java
+|4,39,1,0,1753974146,"~/calculator/Calculator.java"
+-'  1  0  ~/calculator/Calculator.java
+|4,39,1,0,1753974146,"~/calculator/Calculator.java"
 -'  1  0  ~/calculator/Calculator.java
 |4,39,1,0,1753974146,"~/calculator/Calculator.java"
 -'  1  0  ~/calculator/Calculator.java
 |4,39,1,0,1753974146,"~/calculator/Calculator.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/Jenkinsfile
+	*	1753977064	0
+	"	1	0
+	^	1	0
+	.	21	1
+	+	21	1
+
+> ~/Calculator.java
+	*	1753977033	0
+	"	17	0
+	^	17	1
+	.	17	0
+	+	17	0
 
 > ~/calculator/Jenkinsfile
 	*	1753974309	0

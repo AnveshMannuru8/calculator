@@ -17,6 +17,18 @@ pipeline {
                 sh 'java -cp out Calculator'
             }
         }
+
+post {
+  failure {
+    emailext (
+      to: 'you@example.com',
+      subject: "Build Failed: ${env.JOB_NAME} #${env.BUILD_NUMBER}",
+      body: "Check logs: ${env.BUILD_URL}"
+    )
+  }
+}
+
+
     }
 }
 

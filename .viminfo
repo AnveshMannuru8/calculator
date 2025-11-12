@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1753977432,,"wq!"
+|2,0,1754584614,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,138 +25,257 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/nani.txt
-|4,48,1,4,1753977432,"~/nani.txt"
-'1  1  0  ~/Jenkinsfile
-|4,49,1,0,1753977067,"~/Jenkinsfile"
-'2  17  0  ~/Calculator.java
-|4,50,17,0,1753977036,"~/Calculator.java"
-'3  22  0  ~/calculator/Jenkinsfile
-|4,51,22,0,1753974312,"~/calculator/Jenkinsfile"
-'4  18  0  ~/calculator/Calculator.java
-|4,52,18,0,1753974162,"~/calculator/Calculator.java"
+'0  1  0  ~/calculator/Jenkinsfile
+|4,48,1,0,1762959003,"~/calculator/Jenkinsfile"
+'1  29  0  ~/calculator/Jenkinsfile
+|4,49,29,0,1754605022,"~/calculator/Jenkinsfile"
+'2  29  0  ~/calculator/Jenkinsfile
+|4,50,29,0,1754605022,"~/calculator/Jenkinsfile"
+'3  29  0  ~/calculator/Jenkinsfile
+|4,51,29,0,1754584614,"~/calculator/Jenkinsfile"
+'4  29  0  ~/calculator/Jenkinsfile
+|4,52,29,0,1754584614,"~/calculator/Jenkinsfile"
+'5  1  4  ~/calculator/hello.txt
+|4,53,1,4,1754476412,"~/calculator/hello.txt"
+'6  17  0  ~/Jenkinsfile
+|4,54,17,0,1753978241,"~/Jenkinsfile"
+'7  1  4  ~/nani.txt
+|4,55,1,4,1753977432,"~/nani.txt"
+'8  1  0  ~/Jenkinsfile
+|4,56,1,0,1753977067,"~/Jenkinsfile"
+'9  1  0  ~/Jenkinsfile
+|4,57,1,0,1753977067,"~/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  1  0  ~/calculator/Jenkinsfile
+|4,39,1,0,1762959003,"~/calculator/Jenkinsfile"
+-'  29  0  ~/calculator/Jenkinsfile
+|4,39,29,0,1762951000,"~/calculator/Jenkinsfile"
+-'  29  0  ~/calculator/Jenkinsfile
+|4,39,29,0,1754605022,"~/calculator/Jenkinsfile"
+-'  29  0  ~/calculator/Jenkinsfile
+|4,39,29,0,1754584614,"~/calculator/Jenkinsfile"
+-'  34  0  ~/calculator/Jenkinsfile
+|4,39,34,0,1754584540,"~/calculator/Jenkinsfile"
+-'  34  0  ~/calculator/Jenkinsfile
+|4,39,34,0,1754584540,"~/calculator/Jenkinsfile"
+-'  34  0  ~/calculator/Jenkinsfile
+|4,39,34,0,1754584540,"~/calculator/Jenkinsfile"
+-'  1  4  ~/calculator/hello.txt
+|4,39,1,4,1754476412,"~/calculator/hello.txt"
+-'  1  4  ~/calculator/hello.txt
+|4,39,1,4,1754476412,"~/calculator/hello.txt"
+-'  1  4  ~/calculator/hello.txt
+|4,39,1,4,1754476412,"~/calculator/hello.txt"
+-'  1  4  ~/calculator/hello.txt
+|4,39,1,4,1754476412,"~/calculator/hello.txt"
+-'  1  4  ~/calculator/hello.txt
+|4,39,1,4,1754476412,"~/calculator/hello.txt"
+-'  1  4  ~/calculator/hello.txt
+|4,39,1,4,1754476412,"~/calculator/hello.txt"
+-'  1  4  ~/calculator/hello.txt
+|4,39,1,4,1754476412,"~/calculator/hello.txt"
+-'  1  4  ~/calculator/hello.txt
+|4,39,1,4,1754476412,"~/calculator/hello.txt"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  17  0  ~/Jenkinsfile
+|4,39,17,0,1753978241,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753978187,"~/Jenkinsfile"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
+-'  1  4  ~/nani.txt
+|4,39,1,4,1753977432,"~/nani.txt"
 -'  1  4  ~/nani.txt
 |4,39,1,4,1753977432,"~/nani.txt"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1753977067,"~/Jenkinsfile"
 -'  1  0  ~/Jenkinsfile
 |4,39,1,0,1753977067,"~/Jenkinsfile"
--'  17  0  ~/Calculator.java
-|4,39,17,0,1753977036,"~/Calculator.java"
--'  17  0  ~/Calculator.java
-|4,39,17,0,1753977036,"~/Calculator.java"
--'  17  0  ~/Calculator.java
-|4,39,17,0,1753977036,"~/Calculator.java"
--'  17  0  ~/Calculator.java
-|4,39,17,0,1753977036,"~/Calculator.java"
--'  1  0  ~/Calculator.java
-|4,39,1,0,1753977022,"~/Calculator.java"
--'  1  0  ~/Calculator.java
-|4,39,1,0,1753977022,"~/Calculator.java"
--'  1  0  ~/Calculator.java
-|4,39,1,0,1753977022,"~/Calculator.java"
--'  1  0  ~/Calculator.java
-|4,39,1,0,1753977022,"~/Calculator.java"
--'  22  0  ~/calculator/Jenkinsfile
-|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
--'  22  0  ~/calculator/Jenkinsfile
-|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
--'  22  0  ~/calculator/Jenkinsfile
-|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
--'  22  0  ~/calculator/Jenkinsfile
-|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
--'  22  0  ~/calculator/Jenkinsfile
-|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
--'  22  0  ~/calculator/Jenkinsfile
-|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
--'  22  0  ~/calculator/Jenkinsfile
-|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
--'  22  0  ~/calculator/Jenkinsfile
-|4,39,22,0,1753974312,"~/calculator/Jenkinsfile"
--'  1  0  ~/calculator/Jenkinsfile
-|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
--'  1  0  ~/calculator/Jenkinsfile
-|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
--'  1  0  ~/calculator/Jenkinsfile
-|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
--'  1  0  ~/calculator/Jenkinsfile
-|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
--'  1  0  ~/calculator/Jenkinsfile
-|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
--'  1  0  ~/calculator/Jenkinsfile
-|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
--'  1  0  ~/calculator/Jenkinsfile
-|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
--'  1  0  ~/calculator/Jenkinsfile
-|4,39,1,0,1753974190,"~/calculator/Jenkinsfile"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  18  0  ~/calculator/Calculator.java
-|4,39,18,0,1753974162,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
--'  1  0  ~/calculator/Calculator.java
-|4,39,1,0,1753974146,"~/calculator/Calculator.java"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
+-'  1  0  ~/Jenkinsfile
+|4,39,1,0,1753977067,"~/Jenkinsfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/calculator/Jenkinsfile
+	*	1762951101	0
+	"	1	0
+	^	29	1
+	.	29	0
+	+	33	1
+	+	6	91
+	+	31	0
+	+	21	6
+	+	29	0
+
+> ~/calculator/hello.txt
+	*	1754476409	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
+
+> ~/Jenkinsfile
+	*	1753978239	0
+	"	17	0
+	^	17	0
+	.	16	1
+	+	1	472
+	+	1	0
+	+	16	1
 
 > ~/nani.txt
 	*	1753977425	0
@@ -165,27 +284,12 @@
 	.	1	4
 	+	1	4
 
-> ~/Jenkinsfile
-	*	1753977064	0
-	"	1	0
-	^	1	0
-	.	21	1
-	+	21	1
-
 > ~/Calculator.java
 	*	1753977033	0
 	"	17	0
 	^	17	1
 	.	17	0
 	+	17	0
-
-> ~/calculator/Jenkinsfile
-	*	1753974309	0
-	"	22	0
-	^	22	0
-	.	6	91
-	+	21	1
-	+	6	91
 
 > ~/calculator/Calculator.java
 	*	1753974159	0
